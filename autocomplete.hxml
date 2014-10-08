@@ -1,0 +1,3 @@
+-neko bin/require-wrapper.n
+-cp src
+-main Main
